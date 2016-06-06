@@ -12,4 +12,4 @@ Even though the result's color is absolutelly random, here's an example:
 Based on...
 =============
 
-This code is based on hamelg's one, you can find it in [hamelg's webpage](http://hamelg.blogspot.com.es/2014/06/pythagoras-tree-fractal-in-python.html)
+This code is based on @hamelg 's one, you can find it in [hamelg's webpage](http://hamelg.blogspot.com.es/2014/06/pythagoras-tree-fractal-in-python.html)
